@@ -1,3 +1,5 @@
 print("Hello Yury!")
 print("I love you!")
 print("Goodbye!")
+print("Hello Yury and my children!")
+print("Hello my children!")
