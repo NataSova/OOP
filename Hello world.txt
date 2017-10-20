@@ -1,3 +1,7 @@
+print("Hello Yury and my children!")
+print("Hello my children!")
+=======
 print("Hello Yury!!!")
 print("I love you!!!")
 print("Goodbye!!!")
+>>>>>>> master
